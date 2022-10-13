@@ -1,0 +1,13 @@
+.header-container{
+    
+}
+.header-img{
+    margin: auto;
+    margin-top: 20px;
+    max-width: 2400px;
+    height: 400px;
+    border-radius: 20px;
+    background-color: green;
+    background-image: url('https://images.unsplash.com/photo-1580638858617-ed8f4c3fa6d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1910&q=80');
+    background-size: cover;
+}
