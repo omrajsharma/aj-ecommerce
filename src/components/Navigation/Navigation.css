@@ -1,0 +1,54 @@
+.navigation{
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 20px;
+    background-color: #131921;
+}
+.navigation-logo img {
+    width: 30px;
+}
+.navigation-search input {
+    width: 400px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+}
+.navigation-search{
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+.navigation-search button svg {
+    height: 20px;
+}
+.navigation-search button {
+    height: 30px;
+    background: #febd68;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.navigation-cart {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+.navigation-cart svg {
+    width: 20px;
+    color: white;
+}
+.login-btn {
+    border: none;
+    background-color: transparent;
+    color: #ffffff;
+}
+.signup-btn{
+    border: none;
+    background-color: #febd68;
+    color: #000;
+    border-radius: 5px;
+    padding:6px 10px;
+    cursor: pointer;
+}
