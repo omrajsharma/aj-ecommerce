@@ -1,0 +1,27 @@
+.diwali-container{
+    background-color: #ededed ;
+    padding: 40px 60px;
+}
+.diwali-header{
+    font-size: 24px;
+}
+.diwali-inner-container{
+    margin-top: 10px;
+    padding: 15px;
+    background-color: white;
+}
+.diwali-product-list{
+    display: flex;
+    overflow-x: scroll;
+    gap: 10px;
+}
+.diwali-product-item{
+    display: flex;
+    flex: 0 0 auto;
+}
+.diwali-product-item img{
+    opacity: 1;
+}
+::-webkit-scrollbar {
+    display: none;
+  }
